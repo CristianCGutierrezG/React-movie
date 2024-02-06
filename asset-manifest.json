@@ -1,0 +1,15 @@
+{
+  "main.js": "/React-movie/static/js/main.f0e235ce.chunk.js",
+  "main.js.map": "/React-movie/static/js/main.f0e235ce.chunk.js.map",
+  "runtime~main.js": "/React-movie/static/js/runtime~main.2fdcd1fa.js",
+  "runtime~main.js.map": "/React-movie/static/js/runtime~main.2fdcd1fa.js.map",
+  "static/js/2.dd4bcf2b.chunk.js": "/React-movie/static/js/2.dd4bcf2b.chunk.js",
+  "static/js/2.dd4bcf2b.chunk.js.map": "/React-movie/static/js/2.dd4bcf2b.chunk.js.map",
+  "index.html": "/React-movie/index.html",
+  "precache-manifest.481b8bc9e8d16691e9cff745e47b1487.js": "/React-movie/precache-manifest.481b8bc9e8d16691e9cff745e47b1487.js",
+  "service-worker.js": "/React-movie/service-worker.js",
+  "static/media/no_image.jpg": "/React-movie/static/media/no_image.31f5bb1d.jpg",
+  "static/media/react-movie-logo.svg": "/React-movie/static/media/react-movie-logo.5de5919a.svg",
+  "static/media/search-icon.svg": "/React-movie/static/media/search-icon.80e9d8a2.svg",
+  "static/media/tmdb_logo.svg": "/React-movie/static/media/tmdb_logo.30cd724b.svg"
+}
