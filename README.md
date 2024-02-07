@@ -8,7 +8,7 @@
 Web que proporciona a los usuarios información detallada sobre una amplia variedad de películas. Conectada a la API de películas <a href="https://www.themoviedb.org/" target="_blank">themoviedb</a>
 
 
-# 🛠 Desarrollado con
+## 🛠 Desarrollado con
 
 Este proyecto fue hecho con las siguientes tecnologias 
 
@@ -16,7 +16,7 @@ Este proyecto fue hecho con las siguientes tecnologias
 - CSS3
 - Node.js
 
-# Caracteristicas
+## Caracteristicas
 
 **📖 Diseño de varias páginas**
 
