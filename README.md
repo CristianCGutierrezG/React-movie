@@ -34,3 +34,7 @@ Este proyecto fue hecho con las siguientes tecnologias
 
 Corra la aplicación en modo de desarrollo.
 Abra  [http://localhost:3000](http://localhost:3000) para verlo en el navegador. La página se recargará si realiza modificaciones.
+
+
+Esta aplicacion fue hecha en base al tutorial <a href="https://www.youtube.com/watch?v=nTeuhbP7wdE" target="_blank">React JS Course for Beginners</a> del canal freeCodeCamp.org
+ 
