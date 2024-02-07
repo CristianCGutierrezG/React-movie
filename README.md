@@ -2,7 +2,7 @@
   Ract-movie<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="/FrontEnd/conversion_divisas/src/img/presentation_web-divisas.png" />
+  <img alt="Demo" src="/src/images/Presentacion web.movieApi.png" />
 </div>
 
 Web que proporciona a los usuarios información detallada sobre una amplia variedad de películas. Conectada a la API de películas <a href="https://www.themoviedb.org/" target="_blank">themoviedb</a>
