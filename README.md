@@ -1,5 +1,5 @@
 <h1 align="center">
-  Ract-movie<br/>
+  React-movie<br/>
 </h1>
 <div align="center">
   <img alt="Demo" src="/src/images/Presentacion web.movieApi.png" />
