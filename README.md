@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   Ract-movie<br/>
-</h2>
+</h1>
 <div align="center">
   <img alt="Demo" src="/src/images/Presentacion web.movieApi.png" />
 </div>
